@@ -1,2 +1,7 @@
-# C_PROGRAMMING-_WITH_Numerical_Methods_And_Integration
-C programs for Bisection Method, Gauss Elimination Method, Regula Falsi Method, Forward Interpolation, Lagrange Method
+**C_PROGRAMMING-_WITH_Numerical_Methods_And_Integration
+    <br />C PROGRAMMING WITH SOME OF THE IMPORTANT AND APLLICATIVE CONCEPTS IN NUMERICAL METHODS AND INTEGRATION THESE INCLUDE:
+ **<br />1.BISECTION METHOD
+   <br />2.GAUSS ELIMINATION
+   <br />3.REGUL FALSI METHOD
+   <br />4.FORWARD INTERPOLATION  
+   <br />5.LAGRANGE METHOD.
